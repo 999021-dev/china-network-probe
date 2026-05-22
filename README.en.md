@@ -7,6 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
+<p align="center">
+  💎 Sponsored by <a href="https://www.speedx.link/"><b>SpeedX</b></a> — Back-to-China accelerator for overseas Chinese &amp; international students (streaming / CN-server gaming / social)
+</p>
+
 ## What it looks like
 
 **Direct connection from overseas — high latency, some services region-blocked:**
@@ -142,7 +146,15 @@ Your current network is not suitable for direct access to China services. Common
 
 Route your traffic through a China-mainland exit node. Common services:
 
-- **[SpeedX](https://www.speedx.link/)** — Back-to-China accelerator for overseas Chinese and international students, optimized for streaming, social, and CN-server gaming. TLS encryption + smart split-tunneling + 1000+ nodes. Supports Windows / macOS / iOS / Android.
+- **[SpeedX](https://www.speedx.link/)** — Back-to-China accelerator for overseas Chinese & international students (**this project's sponsor**)
+
+  - 🎯 **Use cases**: Optimized for streaming (Bilibili / iQIYI / NetEase Music), CN-server gaming (KingGlory / Genshin / LOL CN), and social (WeChat / Weibo / Xiaohongshu)
+  - 🔒 **Security**: TLS encryption + smart QoS + next-gen key management
+  - 🌍 **Scale**: 1000+ global nodes, multi-Gbps bandwidth, smart route switching
+  - 📱 **Platforms**: Windows / macOS / iOS / Android clients
+  - ✨ **Features**: Dynamic routing, smart split-tunneling, load balancing
+
+  👉 [Learn more at speedx.link →](https://www.speedx.link/)
 - Other commercial back-to-China accelerators (穿梭, 快帆, QuickFox, etc.)
 - Self-hosted relay (cheaper long-term but requires technical skill)
 

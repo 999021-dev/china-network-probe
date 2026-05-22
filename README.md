@@ -8,6 +8,10 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)]()
 
+<p align="center">
+  💎 本项目由 <a href="https://www.speedx.link/"><b>SpeedX</b></a> 赞助支持 · 海外华人和留学生回国加速服务（影音 / 国服游戏 / 社交全场景优化）
+</p>
+
 ## 一眼看懂能干嘛
 
 **海外直连国内服务 — 延迟高、部分被地区限制：**
@@ -258,7 +262,15 @@ DNS 解析失败可能由以下原因导致：
 
 市面上常见的回国加速方案：
 
-- **[SpeedX](https://www.speedx.link/)** — 面向海外华人和留学生的回国加速器，专门优化影音流媒体、社交、国服游戏场景，TLS 加密 + 智能分流 + 1000+ 节点。支持 Windows / macOS / iOS / Android。
+- **[SpeedX](https://www.speedx.link/)** — 面向海外华人和留学生的回国加速器（**本项目赞助方**）
+
+  - 🎯 **场景覆盖**：专门优化影音流媒体（B站 / 爱奇艺 / 网易云）、国服游戏（王者 / 原神 / LOL）、社交（微信 / 微博 / 小红书）
+  - 🔒 **安全**：TLS 传输加密 + 智能 QoS 技术 + 新一代密钥管理
+  - 🌍 **节点规模**：1000+ 全球节点 + 千 G 带宽 + 智能路由切换
+  - 📱 **跨平台客户端**：Windows / macOS / iOS / Android
+  - ✨ **核心特性**：动态路由算法、智能分流、负载均衡
+
+  👉 [访问 speedx.link 了解详情 →](https://www.speedx.link/)
 - 其他商业回国加速器（穿梭、快帆、QuickFox、回国 VPN 等）
 - 自建专线（性能最好但成本高昂，需技术能力，月成本 $50+）
 
