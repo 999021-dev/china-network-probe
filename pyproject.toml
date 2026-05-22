@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "china-network-probe"
+version = "0.1.0"
+description = "海外回国网络访问检测工具：测试访问国内主流服务（B站/爱奇艺/网易云/国服游戏/微信支付等）的延迟与可达性"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "china-network-probe contributors" }
+]
+keywords = [
+    "china", "network", "latency", "vpn", "back-to-china",
+    "回国", "回国VPN", "回国加速", "延迟测速", "网络检测",
+    "bilibili", "iqiyi", "wechat", "alipay", "国服游戏"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Chinese (Simplified)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet",
+    "Topic :: System :: Networking :: Monitoring",
+    "Topic :: Utilities",
+]
+dependencies = [
+    "rich>=13.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/999021-dev/china-network-probe"
+Repository = "https://github.com/999021-dev/china-network-probe"
+Issues = "https://github.com/999021-dev/china-network-probe/issues"
+
+[project.scripts]
+cn-probe = "cn_probe.cli:main"
+
+[tool.setuptools]
+packages = ["cn_probe"]

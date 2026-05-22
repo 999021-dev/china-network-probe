@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 常见问题 FAQ
+    url: https://github.com/999021-dev/china-network-probe#常见问题-faq
+    about: 提 Issue 前，先看看 README 的 FAQ 是否已经回答了你的问题
+  - name: 📘 回国上网完整指南
+    url: https://999021-dev.github.io/china-network-probe/guide
+    about: 想了解海外访问国内服务的方案对比、避坑指南，请阅读这份指南
+  - name: 💬 讨论 / Discussions
+    url: https://github.com/999021-dev/china-network-probe/discussions
+    about: 不是 bug 也不是功能建议，只是想交流？欢迎来 Discussions
